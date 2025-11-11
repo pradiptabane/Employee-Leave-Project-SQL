@@ -1,7 +1,7 @@
 # Employee Leave Management System (SQL Backend)
 
 **Author:** Pradipta Banerjee  
-**Contact:** your.email@example.com | +91-XXXXXXXXXX
+**Contact:** banerjeepradipta47@gmail.com | +91-7003385912
 
 ## Overview
 Relational database implementation to manage employees, leave types, leave requests, approvals and leave balances.
