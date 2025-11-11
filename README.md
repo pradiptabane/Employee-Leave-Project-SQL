@@ -30,9 +30,4 @@ Relational database implementation to manage employees, leave types, leave reque
 - Leave accrual happens yearly; leave types and accrual rules are simplified.
 - Manager approvals are represented by `approver_id` on LeaveRequests.
 
-## How to share
-- Recommended: push to a GitHub repo and paste the repository link in the Cognizant form.
-- Alternatively, zip the folder and upload to Drive/OneDrive/Dropbox and share the link.
 
-## Notes
-Replace the contact placeholders above with your real email/phone before submitting.
