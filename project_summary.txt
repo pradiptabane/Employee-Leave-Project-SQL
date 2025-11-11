@@ -1,0 +1,18 @@
+Employee Leave Management System — Executive Summary
+
+Author: Pradipta Banerjee
+
+Objective:
+Replace manual leave tracking with a reliable database backend that enforces policy, reduces errors and provides management reports.
+
+Solution:
+Implemented normalized MySQL schema with tables for employees, leave types, balances and requests. Business rules implemented via stored procedures to check balances and update balances on approval. Indexes added for common queries and sample reports provide actionable insights (pending approvals, monthly totals, employee summaries).
+
+Impact:
+Faster approvals, accurate leave balances, auditable history and easy integration with HR frontends.
+
+Files included:
+- schema_and_sample_data.sql
+- reports_examples.sql
+- README.md
+- ER_diagram.png (not included)
